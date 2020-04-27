@@ -1,2 +1,8 @@
 # hello-world
-easy things
+
+
+#include<stdio.h>
+int main
+{
+    printf("here i am");
+}
